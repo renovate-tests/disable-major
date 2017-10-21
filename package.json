@@ -1,8 +1,10 @@
 {
   "name": "disable-major",
   "version": "0.0.1",
+  "dependencies": {
+    "left-pad": "^1.0.0"    
+  },
   "devDependencies": {
-    "left-pad": "^1.0.0",
     "chalk": "^1.0.0"
   }
 }
